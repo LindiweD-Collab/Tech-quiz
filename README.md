@@ -67,7 +67,7 @@ JavaScript
 
 ## Ⅶ. Getting Started / Setup
 **Clone the repository:**
-git clone `https://github.com/Yoland-dev/Tech-quiz`
+git clone `https://github.com/LindiweD-Collab/Tech-quiz`
 
 
 **Navigate to the project directory:**
@@ -77,4 +77,4 @@ cd `Tech-quiz`
 ## Ⅷ. Submission Requirements
 **Hosted Application:** The final quiz application will hosted online and publicly accessible.
 
-**Source Code:** https://github.com/Yoland-dev/Tech-quiz
+**Source Code:** https://github.com/LindiweD-Collab/Tech-quiz
